@@ -8,6 +8,10 @@ A complete pipeline for downloading, processing, and creating vector embeddings 
 
 ![Visualization Screenshot](assets/visualization_screenshot.png)
 
+## TODO
+
+I recently learnt that the Godot website was actually made from the godot-docs repository, so one does not need to crawl the website, just download the repo, which makes it a lot easier to keep up to date, which means the "curator" needs to be updated to support it.
+
 ## Installation
 
 1. Clone this repository:
