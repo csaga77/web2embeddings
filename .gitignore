@@ -5,3 +5,5 @@ artifacts/chunks
 artifacts/vector_stores
 artifacts/curated
 *.DS_Store
+*.yml
+/.github/
