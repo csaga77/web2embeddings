@@ -42,7 +42,7 @@
 
 3. 可视化嵌入：
    ```bash
-   python visualizer.py --collection godotengine_chunks_SZ_400_O_20_sentence-transformers_all-MiniLM-L6-v2
+   python visualizer.py --collection godotengine_chunks_SZ_400_O_20_all-MiniLM-L6-v2
    ```
 
 ### 从头处理新内容的完整流程

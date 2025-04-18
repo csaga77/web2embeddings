@@ -44,7 +44,7 @@ The repository includes pre-curated Godot documentation, so you can quickly try 
 
 3. Visualize the embeddings:
    ```bash
-   python visualizer.py --collection godotengine_chunks_SZ_400_O_20_sentence-transformers_all-MiniLM-L6-v2
+   python visualizer.py --collection godotengine_chunks_SZ_400_O_20_all-MiniLM-L6-v2
    ```
 
 ### Full Pipeline with New Content
